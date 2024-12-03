@@ -8,12 +8,14 @@ import streamlit as st
 
 DATA_FILES = {
     "Ryby 🐟🐠🐡": "data/fish_data.csv",
-    "Tučňáci 🦆🦅🦉": "data/penguins_size_nona.csv",
+    "Tučňáci 🐧🐧🐧": "data/penguins_size_nona.csv",
+    "Iris 🌻🌺🌼": "data/Iris.csv",
 }
 
 
 def app():
-    st.title("PyDataLadies Dashboard")
+    st.title("PyLadies - kurz PyData 2024")
+    st.header("Dashboard pro vizualizaci", divider="gray")
 
     # vstup 1: výběr datové sady
     dataset = st.selectbox("Dataset", DATA_FILES.keys())
