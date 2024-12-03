@@ -10,6 +10,8 @@ DATA_FILES = {
     "Ryby 🐟🐠🐡": "data/fish_data.csv",
     "Tučňáci 🐧🐧🐧": "data/penguins_size_nona.csv",
     "Iris 🌻🌺🌼": "data/Iris.csv",
+    #"Víno 🍷🍷🍷": "data/wine_data.csv",
+    "Rakovina prsu 👧👧👧": "data/breast_cancer.csv",
 }
 
 
