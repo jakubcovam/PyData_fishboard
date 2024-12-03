@@ -16,3 +16,5 @@ Pro spuštění aplikace na Streamlit Cloudu, použij odkaz:
 ```
 https://pydata-fishboard.streamlit.app/
 ```
+
+![app_fishboard](https://github.com/jakubcovam/PyData_fishboard/blob/main/pydata-fishboard-nahled.png)
