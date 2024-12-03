@@ -1,6 +1,3 @@
-# run in terminal from PyCharm:
-# > streamlit run app.py
-
 import pandas as pd
 import plotly.express as px
 import streamlit as st
